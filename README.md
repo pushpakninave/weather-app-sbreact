@@ -1,5 +1,4 @@
-# weather-app-sbreact
-endpoint: `http://weather-client.ap-south-1.elasticbeanstalk.com/weather?cityName={cityname here}`
+
 # Weather App
 ![Weather App](https://github.com/pushpakninave/weather-app-sbreact/assets/65614791/31412c7d-01c5-4d7e-b693-ecc3ca419e43)
 
@@ -47,6 +46,9 @@ The Weather App is a web application built using Spring Boot and React.js. It co
    Start the React development server:
    `npm start`
    The React app will be accessible at http://localhost:3000.
+   
+## AWS:
+endpoint: `http://weather-client.ap-south-1.elasticbeanstalk.com/weather?cityName={cityname here}`
 
 ### Usage:
 Open your web browser and go to http://localhost:3000 to access the Weather App.
