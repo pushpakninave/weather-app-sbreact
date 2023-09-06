@@ -19,8 +19,8 @@ The Weather App is a web application built using Spring Boot and React.js. It co
 
 ### Prerequisites
 
-- [Java JDK](https://www.oracle.com/java/technologies/javase-downloads.html) (version X.X or higher)
-- [Node.js](https://nodejs.org/) (version X.X or higher)
+- [Java JDK](https://www.oracle.com/java/technologies/javase-downloads.html) (version 8 or higher)
+- [Node.js](https://nodejs.org/) (version v18.17.1 or higher)
 - [npm](https://www.npmjs.com/get-npm) (comes with Node.js)
 - [Git](https://git-scm.com/downloads)
 
